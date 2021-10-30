@@ -118,7 +118,7 @@ body {
 	  color: rgba(37, 235, 241, 0.945);
   }
 
-  ul {
+ul {
 	list-style-type: none;
 	margin: 0;
 	padding: 0;
@@ -127,11 +127,11 @@ body {
   }
   
   li {
-	float: left;
+	float:left;
   }
   
   li a {
-	display: block;
+	display:block;
 	color: white;
 	text-align: center;
 	padding: 14px 16px;
